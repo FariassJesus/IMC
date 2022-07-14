@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNz/jzdTG3XXjRWOshVqo8UacqofoFJpIxNukDv07OZfg8xdUcziwDBjkvaeGftV/Izm0kSADd85rmmnyhbsJA==",
+  "success": true,
+  "projectFilePath": "E:\\je-fa\\Documents\\Bootcamp_Gen\\Projeto IMC\\IMC\\IMC\\IMC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\je-fa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
